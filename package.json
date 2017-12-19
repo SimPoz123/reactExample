@@ -1,0 +1,11 @@
+{
+  "name": "judoheroes",
+  "version": "1.0.0",
+  "description": "yeah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mee",
+  "license": "ISC"
+}
